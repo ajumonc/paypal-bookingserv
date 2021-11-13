@@ -1,5 +1,5 @@
 
-# Please refer bookingserv.zip for chceking out the code.
+# Please refer bookingserv.zip for check out the code.
 
 # bookingserv
 
